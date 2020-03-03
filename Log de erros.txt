@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1 - Erro no bot�o entra na pagina de login.
 2 - ambas partes do cadastre sua escola e login n�o est�o centralizadas fora do padr�o .CSS.
 3 - Input do login est� com uma fonte diferente da aba cadastre sua escola saindon do padr�o do site
@@ -23,3 +24,28 @@
 23 - Em "Cadastrar Professores" > Nome da Escola < est� como caracteristicas de tipo Password(senha)******
 24 -  Em "Cadastrar Professores" est� faltando mais op��es de "tipo de Ensino"
 25 - Cadastro de Professores bug nos c�digos
+=======
+1 -
+2 - ambas partes do cadastre sua escola e login nÃ£o estÃ£o centralizadas fora do padrao .CSS.
+3 - Input do login esta com uma fonte diferente da aba cadastre sua escola saindon do padrao do site
+4 - Esqueceu senha nao funciona.
+5 - Titulo do cpanel estranho
+6 - No cadastro de usuario a lista de usuarios cadastrados nao esta funcionando.
+7 - 
+8 - Cadastro de Curso fora do padrÃ£o de cadastros e sem lista de cadastrados
+9 - 
+10 - Os botoes Excluir dos cadastrados nao estao funcionando
+11 - O campo Tipo de usuÃ¡rio no cadastro de cliente, tem que ser padrÃ£o, o usuario nao digita e sim escolhe em uma combobox.
+12 - Mudar a tela de cadastro de horÃ¡rio deve ficar os campos (Posisao, Dia da Semana, hora inicial e final).
+13 -
+14 - Erro de portugues na tela inicial (horario sem acento).
+15 - Fazer a tela de cadastro de professores e suas indisponibilidades
+16 - Faze o cadastro de disciplinas por turma.
+17 - 
+18 - No Cpanel, a palavra horÃ¡rio do Menu estÃ¡ sem acento
+19 - No Cpanel, a palavra usuÃ¡rio no menu estÃ¡ sem acento
+20 - No Cpanel, o link que mostra os dados do usuÃ¡rio nÃ£o estÃ¡ funcionando
+21 - No Cpanel, editar dados do usuÃ¡rio e da escolha nÃ£o estÃ¡ pronto
+22 - Criar tela de gerar horÃ¡rio (A principal)
+
+>>>>>>> upstream/master
